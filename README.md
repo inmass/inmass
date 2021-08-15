@@ -17,5 +17,6 @@ Skills: PYTHON / PHP / JS / HTML / CSS / CMS
 <a href="https://github.com/inmass" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://www.iinmass.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
+![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3)
 
 

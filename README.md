@@ -6,7 +6,7 @@ I am passionate about programming, have a good eye for detail, can work unsuperv
 Skills: PYTHON / PHP / JS / HTML / CSS / CMS
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: Using my [portfolio](https://www.iinmass.com). 
+- 📫 How to reach me: Using my [portfolio](https://www.iinmass.com) or through my social media accounts down bellow. 
 - ⚡ Fun fact: I have a meme face :3 
 
 ####

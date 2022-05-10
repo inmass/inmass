@@ -4,7 +4,7 @@
 I am a full-stack web developer who enjoys learning new things and purposefully working toward achieving new goals.
 I am passionate about programming, have a good eye for detail, can work unsupervised, deliver excellent results and be an outstanding team player.
 
-Skills: PYTHON / PHP / JS / HTML / CSS / CMS
+Skills: PYTHON / PHP / SQL / JS / HTML / CSS / CMS
 
 - 📫 How to reach me: Using my [portfolio](https://www.iinmass.com) or through my social media accounts down bellow. 
 - ⚡ Fun fact: I have a meme face :3 

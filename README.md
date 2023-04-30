@@ -1,13 +1,12 @@
 ### Hi! 👋
-## I am Inmass Idbelkacem, I develop both *client* and *server* softwares.
+## I am Inmass Idbelkacem, a web geek.
 
-I am a full-stack web developer who enjoys learning new things and purposefully working toward achieving new goals.
+I am a backend web developer who enjoys learning new things and purposefully working toward achieving new goals.
 I am passionate about programming, have a good eye for detail, can work unsupervised, deliver excellent results and be an outstanding team player.
 
-Skills: PYTHON / PHP / SQL / JS / HTML / CSS / CMS
+Skills: PYTHON / PHP / SQL / JS / CMS
 
-- 📫 How to reach me: Using my [portfolio](https://www.iinmass.com) or through my social media accounts down bellow. 
-- ⚡ Fun fact: I have a meme face :3 
+- 📫 How to reach me: Using my [portfolio](https://www.iinmass.com) or through my social media accounts down bellow.
 
 ####
 

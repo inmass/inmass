@@ -10,11 +10,11 @@ Skills: PYTHON / PHP / SQL / JS / CMS
 
 ####
 
-<a href="https://www.facebook.com/inmass.idbelkacem/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.instagram.com/iinmass/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/iinmass/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/inmass" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://www.iinmass.com" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/www.png" alt="Website" width="30"></a>
+<a href="https://www.facebook.com/inmass.idbelkacem/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/fb-yellow.png" alt="Facebook" width="30"></a>
+<a href="https://www.instagram.com/iinmass/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/ig-yellow.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/iinmass/" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/in-yellow.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/inmass" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/git-yellow.png" alt="GitHub" width="30"></a>
+<a href="https://www.iinmass.com" target="_blank"><img src="https://github.com/inmass/inmass/blob/main/www-yellow.png" alt="Website" width="30"></a>
 
 ![Profile views](https://gpvc.arturio.dev/inmass)
 
